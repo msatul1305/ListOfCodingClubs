@@ -7,6 +7,8 @@ IIT Kanpur : <a href="http://pclub.in/">http://pclub.in/</a>
 
 IIT Guwahati : <a href="https://www.iitg.ac.in/stud/gymkhana/technical/home/CodingHome.html">https://www.iitg.ac.in/stud/gymkhana/technical/home/CodingHome.html</a>
 
+IIT Hyderabad : https://scitech-iith.netlify.com
+
 IIT Gandhinagar : <a href="http://students.iitgn.ac.in/codingclub/index.html">http://students.iitgn.ac.in/codingclub/index.html</a>
 
 IIT Gandhinagar,github : <a href="https://coding-iitgn.github.io/">https://coding-iitgn.github.io/</a>
@@ -19,17 +21,11 @@ IIT Delhi 2 : <a href="https://devclub.in/">https://devclub.in/</a>
 
 IIT Bombay : https://www.wncc-iitb.org/
 
-IIT Hyderabad : https://scitech-iith.netlify.com
+IIT Rourkee : https://sdslabs.co/
 
-IIT Mandi : <a href="https://www.exodia.in/">https://www.exodia.in</a>
+ACM, IIT Rourkee : https://www.iitr.ac.in/acm/
 
-IIT Madras : <a href="https://www.shaastra.org/">https://www.shaastra.org/</a>
-
-IIT Madras, CultFest : <a href="http://anwesha.info/">http://anwesha.info/</a>
-
-IIT Rourkee : <a href="https://www.cognizance.org.in/">https://www.cognizance.org.in/</a>
-
-IIT Rourkee, Cult fest : <a href="https://www.thomso.in/">https://www.thomso.in/</a>
+PAG, IIT Rourkee : http://pag.iitr.ac.in/
 
 IIT Patna : <a href="https://celesta.org.in/">https://celesta.org.in/</a>
 
