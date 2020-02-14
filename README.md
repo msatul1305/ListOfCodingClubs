@@ -45,7 +45,7 @@ IIT Goa : <a href="http://iitgoa.ac.in/cultrang">http://iitgoa.ac.in/cultrang</a
 
 <b>NITs :</b> 
 
-
+NIT Trichy : https://delta.nitt.edu/
 
 
 
